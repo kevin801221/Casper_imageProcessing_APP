@@ -1,6 +1,5 @@
 # Casper_imageProcessing_APP
 
-```markdown
 # Casper 圖片處理工具
 
 一個基於 Python 的 Web 圖片處理系統，整合基礎圖片處理和 AI 增強功能。
@@ -163,4 +162,3 @@ denoise(image, strength)
 ## 作者
 
 - Kevin Luo
-```
