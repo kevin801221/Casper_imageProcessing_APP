@@ -67,6 +67,11 @@ source venv/bin/activate  # Linux/Mac
 pip install -e .
 ```
 
+4. python環境變數
+```bash
+export PYTHONPATH="${PYTHONPATH}:/完整路徑/casper-image-processor"
+```
+
 ## 使用方法
 
 1. 啟動應用程式
